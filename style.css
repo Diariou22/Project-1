@@ -1,8 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 
 :root{
     --md-dark-color: #1d1d1d;
-    --dark-color: #171717;
+    --dark-color: #e1732a;
     --light-dark-color: #292929;
     --yellow-color: #d4aa11;
 }
